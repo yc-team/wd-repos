@@ -1,6 +1,6 @@
 {
   "name": "wd-repos",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "real time list of public repos",
   "main": "index.js",
   "scripts": {
