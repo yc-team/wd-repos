@@ -1,0 +1,23 @@
+{
+  "name": "wd-repos",
+  "version": "0.0.1",
+  "description": "real time list of public repos",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "node pre-build.js > index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yc-team/wd-repos.git"
+  },
+  "dependencies": {},
+  "keywords": [
+    "yc",
+    "repos"
+  ],
+  "author": "zhangyaochun",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/yc-team/wd-repos/issues"
+  }
+}
