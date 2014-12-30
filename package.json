@@ -1,6 +1,6 @@
 {
   "name": "wd-repos",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "real time list of public repos",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git://github.com/yc-team/wd-repos.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "superagent": "^0.18.2"
+  },
   "keywords": [
     "yc",
     "repos"
