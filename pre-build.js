@@ -8,7 +8,6 @@ superagent.get('https://api.github.com/orgs/wandoulabs/repos?type=public')
         console.log(' * Please do not manually edit.');
         console.log(' */');
         console.log();
-        console.log();
 
         var repos = {},
             i = 0,
